@@ -102,7 +102,7 @@ body {
   font-family: "Righteous", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/background.jpg);
+    background: url(https://i.ibb.co/PMX6hZ1/background.jpg);
     background-attachment: fixed;
     background-size: cover; }
     body#bg-img:after {
@@ -147,7 +147,7 @@ main {
   padding: 4rem;
   min-height: calc(100vh - 60px); }
   main .icons {
-    margin-left: 14rem; }
+    margin-left: 10rem; }
     main .icons a {
       padding: 0.4rem; }
       main .icons a:hover {
