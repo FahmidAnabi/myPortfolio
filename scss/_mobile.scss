@@ -44,7 +44,9 @@
         height: 25vh;
         transform: translate3d(100, 0, 0);
         .portrait {
+            //display: none;
             background: url("../img/portrait_small.jpg");
+            background-image: 10px;
         }
     }
     .about-info {
