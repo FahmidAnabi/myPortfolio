@@ -1,0 +1,38 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "A simple portfolio website which is also responsive for smaller devices. This site is created with html5, css3 , sass and little vanila.js. No framework is used in this project.",
+  "main": "",
+  "dependencies": {
+    "camelcase-keys": "^2.1.0",
+    "form-data": "^2.3.3",
+    "is-finite": "^1.0.2",
+    "is-fullwidth-code-point": "^1.0.0",
+    "jsbn": "^0.1.1",
+    "json-schema": "^0.2.3",
+    "json-schema-traverse": "^0.4.1",
+    "json-stringify-safe": "^5.0.1",
+    "lcid": "^1.0.0",
+    "lodash": "^4.17.15",
+    "map-obj": "^1.0.1",
+    "mime-db": "^1.42.0",
+    "mime-types": "^2.1.25",
+    "minimatch": "^3.0.4",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.13.0",
+    "nopt": "^3.0.6",
+    "number-is-nan": "^1.0.1",
+    "oauth-sign": "^0.9.0",
+    "object-assign": "^4.1.1",
+    "os-homedir": "^1.0.2",
+    "os-locale": "^1.4.0",
+    "os-tmpdir": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Fahmid Anabi",
+  "license": "MIT"
+}
